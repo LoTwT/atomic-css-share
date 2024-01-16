@@ -78,6 +78,12 @@ src: ./pages/links.md
 <!-- page links -->
 
 ---
+src: ./pages/qa.md
+---
+
+<!-- page qa -->
+
+---
 src: ./pages/end.md
 ---
 
