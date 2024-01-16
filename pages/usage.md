@@ -11,7 +11,7 @@ layout: two-cols-header
 ## 基本使用
 
 ```html
-<div text-lg font-bold underline>Some Text</div>
+<div class="text-lg font-bold underline">Some Text</div>
 ```
 
 编译结果:
@@ -36,7 +36,7 @@ layout: two-cols-header
 
 ::right::
 
-## 复用
+## `@apply` 复用
 
 配置 [Directives Transformer](https://unocss.dev/transformers/directives)，使用 `@apply` 指令，别名 `--at-apply`、`--uno-apply`、`--uno`。
 
