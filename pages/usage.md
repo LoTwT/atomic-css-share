@@ -22,6 +22,7 @@ layout: two-cols-header
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
+.underline,
 [underline=""] {
   text-decoration-line: underline;
 }
@@ -42,7 +43,7 @@ layout: two-cols-header
 ```css
 .reuse-with-apply {
   @apply text-lg font-bold underline;
-  /* same as */
+  /* same in Unocss */
   /* --at-apply: text-lg font-bold underline; */
 }
 ```

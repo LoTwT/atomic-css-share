@@ -4,18 +4,15 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shikiji
 lineNumbers: false
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 transition: slide-left
-title: Welcome to Slidev
+title: Atomic CSS Share
 mdc: true
 download: true
 exportFilename: atomic-css-share
+export:
+  withClicks: true
 src: ./pages/intro.md
 ---
 
@@ -58,12 +55,6 @@ src: ./pages/usage.md
 <!-- page usage -->
 
 ---
-src: ./pages/apply.md
----
-
-<!-- page apply -->
-
----
 src: ./pages/playground.md
 ---
 
@@ -74,3 +65,20 @@ src: ./pages/preflight.md
 ---
 
 <!-- page preflight -->
+
+---
+src: ./pages/pros.md
+---
+
+<!-- page pros -->
+---
+src: ./pages/links.md
+---
+
+<!-- page links -->
+
+---
+src: ./pages/end.md
+---
+
+<!-- page end -->
