@@ -67,10 +67,29 @@ src: ./pages/preflight.md
 <!-- page preflight -->
 
 ---
+src: ./pages/utility-first-fundamentals.md
+---
+
+<!-- page utility-first-fundamentals -->
+
+---
 src: ./pages/pros.md
 ---
 
 <!-- page pros -->
+
+---
+src: ./pages/cons.md
+---
+
+<!-- page cons -->
+
+---
+src: ./pages/summary.md
+---
+
+<!-- page summary -->
+
 ---
 src: ./pages/links.md
 ---
