@@ -13,6 +13,12 @@ download: true
 exportFilename: atomic-css-share
 export:
   withClicks: true
+fonts:
+  # basically the text
+  sans: 'Noto Sans SC'
+  weight: '300,400,500,600,700,800,900'
+  # for code blocks, inline code, etc.
+  mono: 'Fira Code'
 src: ./pages/intro.md
 ---
 
