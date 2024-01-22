@@ -34,3 +34,8 @@ layout: two-cols
 - [Tailwind Playground](https://play.tailwindcss.com/)
 - [UnoCSS Playground](https://unocss.dev/play/)
 - [UnoCSS Interactive Docs](https://unocss.dev/interactive/)
+
+## Extensions Publishers
+
+- [antfu](https://marketplace.visualstudio.com/publishers/antfu)
+- [Simon He](https://marketplace.visualstudio.com/publishers/simonhe)
