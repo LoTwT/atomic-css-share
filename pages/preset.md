@@ -2,7 +2,7 @@
 
 Unocss 因为[硬编码](https://github.com/unocss/unocss/blob/59e6c343d5645d547349721e9abfc5bb62ecdd80/packages/preset-mini/src/_utils/handlers/handlers.ts#L54)致使 `p-1` 在转换后是 `padding: 0.25rem`，这在有时候并不方便；以下是一个成倍放大基础 `0.25` 单位的预设，例如倍数是 `4` 时，`p-1` 将被转换为 `padding: 1rem`。
 
-```ts{all|3,11-19}
+```ts{3,11-19}
 import type { Preset } from "unocss"
 
 const remRE = /^-?[\.\d]+rem$/
