@@ -28,6 +28,7 @@ layout: two-cols
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [UnoCSS](https://marketplace.visualstudio.com/items?itemName=antfu.unocss)
 - [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify)
+- [Tailwind CSS ClassName Highlight](https://marketplace.visualstudio.com/items?itemName=hyoban.tailwindcss-classname-highlight)
 
 ## Interactive Docs / Playground
 
@@ -39,3 +40,4 @@ layout: two-cols
 
 - [antfu](https://marketplace.visualstudio.com/publishers/antfu)
 - [Simon He](https://marketplace.visualstudio.com/publishers/simonhe)
+- [Stephen Zhou](https://github.com/hyoban)
