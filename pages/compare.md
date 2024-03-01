@@ -2,7 +2,7 @@
 layout: two-cols
 ---
 
-<img src="/traditional-atomic-css.png" alt="traditional-atomic-css" />
+<img src="/traditional-atomic-css.png" bg-white alt="traditional-atomic-css" />
 
 <br />
 
@@ -14,7 +14,7 @@ layout: two-cols
 
 ::right::
 
-<img src="/on-demand-atomic-css.png" alt="on-demand-atomic-css" />
+<img src="/on-demand-atomic-css.png" bg-white alt="on-demand-atomic-css" />
 
 <br />
 
@@ -24,3 +24,4 @@ layout: two-cols
 1. 开发和生产的产物一致
 1. 方便缓存和增量构建，使得 HMR 更高效
 1. 更好的 DX ( 开发体验 )
+

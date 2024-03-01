@@ -1,12 +1,13 @@
 ---
 layout: two-cols-header
+title: 传统的原子化 CSS
 ---
 
 # 传统的原子化 CSS
 
 ### 提供**所有**可能会用到的 CSS 工具类
 
-<img src="/traditional-atomic-css.png" alt="traditional atomic css" w-160 />
+<img src="/traditional-atomic-css.png" bg-white alt="traditional atomic css" w-160 />
 
 ::left::
 
@@ -30,3 +31,4 @@ layout: two-cols-header
 /* ... */
 .m-10 { margin: 2.5 rem; }
 ```
+
