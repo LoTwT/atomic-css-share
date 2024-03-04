@@ -15,3 +15,5 @@ Preflight 也会预生成一些 CSS 变量以便 utilities 能够符合 CSS 工�
 UnoCSS 默认情况下不提供样式重置或预检，但提供了丰富的样式重置预设 [Unocss Browser Style Reset](https://unocss.dev/guide/style-reset#browser-style-reset)。
 
 UnoCSS 预生成的 Preflight Variables 是由 `preset-mini` 提供的，可以在 `preset-uno` 中配置 `presetUno({ preflight: false })` 关闭。
+
+`Tailwind Preflight` = `Unocss Preflight` + `Unocss Style Reset`
