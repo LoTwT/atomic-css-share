@@ -26,9 +26,9 @@ layout: two-cols
 ## VSCode Extensions
 
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Tailwind CSS ClassName Highlight](https://marketplace.visualstudio.com/items?itemName=hyoban.tailwindcss-classname-highlight)
 - [UnoCSS](https://marketplace.visualstudio.com/items?itemName=antfu.unocss)
 - [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify)
-- [Tailwind CSS ClassName Highlight](https://marketplace.visualstudio.com/items?itemName=hyoban.tailwindcss-classname-highlight)
 
 ## Interactive Docs / Playground
 

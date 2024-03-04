@@ -47,3 +47,5 @@ layout: two-cols-header
   /* --at-apply: text-lg font-bold underline; */
 }
 ```
+
+使用 `@apply` 的类中如果重复使用了单独用过的工具类，工具类的值会单独生成到使用 `@apply` 的类中。
